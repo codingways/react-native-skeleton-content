@@ -1,3 +1,13 @@
+## Warning
+
+This repository isn't an official repository; you can use this repo while the library has not been updated to support Expo SDK 45. Remember to check the [official repository](https://github.com/alexZajac/react-native-skeleton-content) regularly.
+
+### What changes ?
+
+- tested for Expo 45
+- expo-linear-gradient : 10.0.3 => 11.3.0
+- react-native-reanimated : 2.2.0 => 2.8.0
+
 ## React Native Skeleton Content
 
 <!---https://raw.githubusercontent.com/alexZajac/react-native-skeleton-content/master/demos/main.gif-->
